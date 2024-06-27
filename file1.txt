@@ -1,2 +1,6 @@
-Curso de Git
-Pro Git
+Esta es la historia de Fredy
+
+Fredy tiene 33 años y nació en Colombia,
+viviendo en todo el mundo.
+
+Hoy hablaremos de su historia.
